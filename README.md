@@ -19,10 +19,10 @@
 ##
 
 <div>
-  <a href="https://www.youtube.com/channel/UC4Y_b-7BjeI7LU0dP018ROQ/about" target="_blank"><img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/elias_soul_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:eliassoulpro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/elias-soul-6ab982244/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.youtube.com/channel/UC4Y_b-7BjeI7LU0dP018ROQ/about" target="_blank"><img src="https://img.shields.io/badge/YouTube-696969?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/elias_soul_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>
+  <a href = "mailto:eliassoulpro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-696969?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/elias-soul-6ab982244/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank"></a> 
   
 ![Snake animation](https://github.com/EliasSoul/EliasSoul/blob/output/github-contribution-grid-snake.svg)
 </div>
